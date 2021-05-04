@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-04T15:00:18.795Z</updated>
+  <updated>2021-05-04T23:36:01.338Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/05/04/20210504-MCUExperiment3-ParalelPortProgramming/"/>
     <id>http://example.com/2021/05/04/20210504-MCUExperiment3-ParalelPortProgramming/</id>
     <published>2021-05-04T14:54:12.000Z</published>
-    <updated>2021-05-04T15:00:18.795Z</updated>
+    <updated>2021-05-04T23:36:01.338Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-Contents"><a href="#1-Contents" class="headerlink" title="1.Contents"></a>1.Contents</h1><p>Master the programming of the parallel I/O ports.</p><h1 id="2-Basic-principle-and-Experimental-steps"><a href="#2-Basic-principle-and-Experimental-steps" class="headerlink" title="2.Basic principle and Experimental steps"></a>2.Basic principle and Experimental steps</h1><p>Please refer to the following files:</p><ul><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/Experiment%203.docx">Experiment 3.docx</a></li><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/Tutorials%20for%20Parallel%20IO%20Programming.docx">Tutorials for Parallel IO Programming.docx</a></li><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/ParellelPortProgramming_Projects.zip">ParellelPortProgramming_Projects.zip</a></li></ul><h1 id="3-Experiment-results-and-analysis"><a href="#3-Experiment-results-and-analysis" class="headerlink" title="3.Experiment results and analysis"></a>3.Experiment results and analysis</h1><p>Please record experiment results and analyze the results.</p>]]></content>
     
