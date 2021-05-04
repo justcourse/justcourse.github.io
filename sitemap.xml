@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/05/04/20210504-MCUExperiment3-ParalelPortProgramming/</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/05/04/20210504-MCUExperiment2-8051ProgrammingLanguage/</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/05/04/20210504-MCUExperiment1-EstablishEnvironment/</loc>
     
     <lastmod>2021-05-04</lastmod>

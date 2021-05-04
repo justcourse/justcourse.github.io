@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>MCU Experiment 3 - Parallel Interface</title>
+      <link href="2021/05/04/20210504-MCUExperiment3-ParalelPortProgramming/"/>
+      <url>2021/05/04/20210504-MCUExperiment3-ParalelPortProgramming/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-Contents"><a href="#1-Contents" class="headerlink" title="1.Contents"></a>1.Contents</h1><p>Master the programming of the parallel I/O ports.</p><h1 id="2-Basic-principle-and-Experimental-steps"><a href="#2-Basic-principle-and-Experimental-steps" class="headerlink" title="2.Basic principle and Experimental steps"></a>2.Basic principle and Experimental steps</h1><p>Please refer to the following files:</p><ul><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/Experiment%203.docx">Experiment 3.docx</a></li><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/Tutorials%20for%20Parallel%20IO%20Programming.docx">Tutorials for Parallel IO Programming.docx</a></li><li><a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/ParellelPortProgramming_Projects.zip">ParellelPortProgramming_Projects.zip</a></li></ul><h1 id="3-Experiment-results-and-analysis"><a href="#3-Experiment-results-and-analysis" class="headerlink" title="3.Experiment results and analysis"></a>3.Experiment results and analysis</h1><p>Please record experiment results and analyze the results.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> MCU </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MCU </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MCU Experiment 2 - 8051 Programming Language</title>
+      <link href="2021/05/04/20210504-MCUExperiment2-8051ProgrammingLanguage/"/>
+      <url>2021/05/04/20210504-MCUExperiment2-8051ProgrammingLanguage/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-Contents"><a href="#1-Contents" class="headerlink" title="1.Contents"></a>1.Contents</h1><p>Learn the programming techniques of the three structures of a program, and be able to use the basic structure to implement common programs such as code conversion and table lookup.</p><h1 id="2-Basic-principle"><a href="#2-Basic-principle" class="headerlink" title="2.Basic principle"></a>2.Basic principle</h1><p>Assembly Language is a pseudo-English representation of the Machine Language. The 8051 Microcontroller Assembly Language is a combination of English like words called Mnemonics and Hexadecimal codes.</p><p>It is also a low level language and requires extensive understanding of the architecture of the Microcontroller.</p><p>Although High-level languages are easy to work with, the following reasons point out the advantage of Assembly Language: The Programs written in Assembly gets executed faster and they occupy less memory. With the help of Assembly Language, you can directly exploit all the features of a Microcontroller. Using Assembly Language, you can have direct and accurate control of all the Microcontroller’s resources like I/O Ports, RAM, SFRs, etc. Compared to High-level Languages, Assembly Language has less rules and restrictions.</p><h1 id="3-Experimental-steps"><a href="#3-Experimental-steps" class="headerlink" title="3.Experimental steps"></a>3.Experimental steps</h1><p>Please refer to the file “<a href="https://raw.githubusercontent.com/justcourse/mydoc/main/courses/MCU/experiments/Experiment%202.docx">Experiment 2.docx</a>“</p><h1 id="4-Experiment-results-and-analysis"><a href="#4-Experiment-results-and-analysis" class="headerlink" title="4.Experiment results and analysis"></a>4.Experiment results and analysis</h1><p>Please record experiment results and analyze the results.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> MCU </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MCU </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MCU Experiment 1 - Establish Environment</title>
       <link href="2021/05/04/20210504-MCUExperiment1-EstablishEnvironment/"/>
       <url>2021/05/04/20210504-MCUExperiment1-EstablishEnvironment/</url>
